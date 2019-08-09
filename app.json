@@ -28,6 +28,10 @@
     "PASSWORD": {
       "description": "The password of the account to log into your dashboard.",
       "value": "parse"
+    },
+    "JAVASCRIPT_KEY": {
+      "description": "Javascript Key.",
+      "value": "myJsKey"
     }
   },
   "image": "heroku/nodejs"
